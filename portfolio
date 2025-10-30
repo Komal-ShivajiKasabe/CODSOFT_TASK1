@@ -46,7 +46,7 @@
 
 
     </div>
- <!-- Projects Section -->
+
  <section class="project">
     <h2>My Projects</h2>
     <!-- Add your project titles, descriptions, and images here -->
@@ -60,21 +60,19 @@
     </div>
     <!-- Repeat for other projects -->
 </section>
-<!-- Resume Section -->
 <section id="resume">
     <h2>Resume</h2>
     <!-- Provide a link to download your resume in PDF format -->
     <p><a href="your_resume.pdf" target="_blank">Download Resume (PDF)</a></p>
 </section>
 
-<!-- Contact Section -->
 <section id="contact">
     <h2>Contact Me</h2>
     <p>Email: Komal@gmail.com</p>
     <p>Phone: +1 123-456-7890</p>
 </section>
 
-<!-- Footer -->
+
 <footer>
     <p>© 2024 Komal Kasabe. All rights reserved.</p>
 </footer>
@@ -294,7 +292,7 @@ footer {
     padding: 1rem;
 }
 
-/* Responsive styles */
+
 @media screen and (max-width: 768px) {
-    /* Add responsive styles if needed */
+
 }
